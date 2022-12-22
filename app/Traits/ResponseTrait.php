@@ -13,14 +13,12 @@ trait ResponseTrait
      * @param string $message
      * @return JsonResponse
      */
-    public function responseSuccess($data, $message = "Successfull"): JsonResponse
+    public function responseSuccess($status, $message = "Successfull", $data): JsonResponse
     {
         return response()->json([
-            'status' => true,
+            'status' => $status,
             'message' => $message,
             'data' => $data,
-            'errors' => null
-
         ]);
     }
 
@@ -31,14 +29,20 @@ trait ResponseTrait
      * @param string $message
      * @return JsonResponse
      */
-    public function responseError($errors,$message = "Something Went Wrong"): JsonResponse
+    public function responseError($status, $message = "Something Went Wrong"): JsonResponse
     {
         return response()->json([
-            'status' => false,
+            'status' => $status,
             'message' => $message,
-            'data' => null,
-            'errors' => $errors
 
+        ]);
+    }
+
+    public function responseDone($status,$message): JsonResponse
+    {
+        return response()->json([
+            'status' => $status,
+            'message' => $message,
         ]);
     }
 }

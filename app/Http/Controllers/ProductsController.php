@@ -11,7 +11,6 @@ use Illuminate\Http\Request;
 
 class ProductsController extends Controller
 {
-
     use ResponseTrait;
     public $publicRepository;
     public function __construct(ProductRepository $productRepository){
@@ -24,22 +23,12 @@ class ProductsController extends Controller
      */
     public function index():JsonResponse
     {
-
         try{
-
-            return $this->responseSuccess($this->productRepository->getAll(),'Products Fetched Succesfully.');
+            return $this->responseSuccess($this->productRepository()->getAll(),'Products Fetched Succesfully.');
         }
         catch(Exception $e){
-            // return response()->json([
-            //     'status' => false,
-            //     'message' => $e->getMessage(),
-            //     'data' => null,
-            //     'errors' => []
-
-            // ]);
             return $this->responseError([],$e->getMessage());
         }
-
     }
 
     /**
