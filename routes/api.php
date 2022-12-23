@@ -5,6 +5,8 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\ProductsController;
 use App\Http\Controllers\RegisterController;
+use Illuminate\Support\Facades\Auth;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -19,16 +21,22 @@ use App\Http\Controllers\RegisterController;
 
 // Route::get('/register', function () {
 //     return "dsfgdfgh";
+// });  `
+
+Route::post('/register',[RegisterController::class,'store']);
+// Route::post('/register', function () {
+//     return true;
 // });
-
-Route::post('/register',[RegisterController::class,'create']);
-// Route::post('/register',function());
-
+Route::get('/admins', [RegisterController::class, 'index']);
+Route::get('/admins/{id}', [RegisterController::class, 'retrive']);
+//Route::get('/admins/{id}', [RegisterController::class, 'update']);
 Route::post('/login',[LoginController::class,'login']);
 
-Route::post('/logout', [LoginController::class, 'logout']);
+Route::post('/logout', function () {
+    return "Working On This";
+});
 Route::middleware('auth:api')->group(function() {
-    Route::get('products', [ProductsController::class,'index']);
+    Route::post('/logouts', [LoginController::class, 'logout']);
 });
 
 

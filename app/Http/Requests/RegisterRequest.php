@@ -23,13 +23,13 @@ class RegisterRequest extends FormRequest
      */
     public function rules()
     {
-        $id = request()->route('id') ?? null;
+        // $id = request()->route('id') ?? null;
 
         $rules = [
             'first_name' => 'required|string|max:30',
             'last_name' => 'required|string|max:30',
-            'email' => 'required|email|unique:users,email,' . $id,
-            'phone' => 'required|max:11|min:11|regex:/(01)[0-9]{9}/|unique:users,phone,' . $id,
+            'email' => 'required|email|max:40|unique:users',
+            'phone' => 'required|max:11|min:11|regex:/(01)[0-9]{9}/|unique:users',
             'password' => 'required|min:8',
         ];
 
