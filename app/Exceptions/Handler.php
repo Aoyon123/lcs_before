@@ -2,40 +2,58 @@
 
 namespace App\Exceptions;
 
-use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use Throwable;
+use ErrorException;
+use Illuminate\Http\Response;
+use Illuminate\Database\QueryException;
+use Illuminate\Database\Eloquent\ModelNotFoundException;
+use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
+use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
+use Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException;
 
 class Handler extends ExceptionHandler
 {
-    /**
-     * A list of the exception types that are not reported.
-     *
-     * @var array<int, class-string<Throwable>>
-     */
+
     protected $dontReport = [
-        //
+        AuthorizationException::class,
+        HttpException::class,
+        ModelNotFoundException::class,
+        ValidationException::class,
     ];
 
-    /**
-     * A list of the inputs that are never flashed for validation exceptions.
-     *
-     * @var array<int, string>
-     */
-    protected $dontFlash = [
-        'current_password',
-        'password',
-        'password_confirmation',
-    ];
-
-    /**
-     * Register the exception handling callbacks for the application.
-     *
-     * @return void
-     */
-    public function register()
+    public function report(Throwable $exception)
     {
-        $this->reportable(function (Throwable $e) {
-            //
-        });
+        parent::report($exception);
+    }
+
+
+    public function render($request, Throwable $exception)
+    {
+        info($exception->getMessage());
+        //return $exception->getMessage();
+        if ($exception instanceof ModelNotFoundException) {
+            return response()->json(["status_code" => 404, "status"=>false, 'message' => "Not Found Your Targeted Data"], Response::HTTP_NOT_FOUND);
+        }
+        if ($exception instanceof QueryException) {
+            return response()->json(["status_code" => 500, "status"=>false, 'message' => "Internal Server Error"], Response::HTTP_INTERNAL_SERVER_ERROR);
+        }
+        if ($exception instanceof MethodNotAllowedHttpException) {
+            return response()->json(["status_code" => 405, "status"=>false, 'message' => "Method Not Allowed"], Response::HTTP_METHOD_NOT_ALLOWED);
+        }
+        if ($exception instanceof ErrorException) {
+            return response()->json(["status_code" => 500, "status"=>false, 'message' => $exception->getMessage()], Response::HTTP_INTERNAL_SERVER_ERROR);
+        }
+
+        if ($exception instanceof \BadMethodCallException) {
+            return response()->json(["status_code" => 500, "status"=>false, 'message' => $exception->getMessage()], Response::HTTP_INTERNAL_SERVER_ERROR);
+        }
+        // if ($exception instanceof PermissionAlreadyExists) {
+        //     return response()->json(["status_code" => 422, 'message' => $exception->getMessage()], Response::HTTP_UNPROCESSABLE_ENTITY);
+        // }
+        if ($exception instanceof NotFoundHttpException) {
+            return response()->json(["status_code" => 404, "status"=>false, 'message' => "URL is not recognized"], Response::HTTP_NOT_FOUND);
+        }
+
+        return parent::render($request, $exception);
     }
 }

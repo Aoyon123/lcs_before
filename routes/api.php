@@ -23,20 +23,33 @@ use Illuminate\Support\Facades\Auth;
 //     return "dsfgdfgh";
 // });  `
 
-Route::post('/register',[RegisterController::class,'store']);
+
 // Route::post('/register', function () {
 //     return true;
 // });
 Route::get('/admins', [RegisterController::class, 'index']);
-Route::get('/admins/{id}', [RegisterController::class, 'retrive']);
-//Route::get('/admins/{id}', [RegisterController::class, 'update']);
+// Route::get('/admins/{id}/retrieve', [RegisterController::class, 'retrieve']);
+Route::put('/admins/{id}/update', [RegisterController::class, 'update']);
+Route::delete('/admins/{id}', [RegisterController::class, 'destroy']);
 Route::post('/login',[LoginController::class,'login']);
+Route::post('/register',[RegisterController::class,'store']);
+// Route::post('/logout', function () {
+//     return auth()->user();
+// });
 
-Route::post('/logout', function () {
-    return "Working On This";
-});
+// Route::post('/apical', function () {
+//     return auth()->user();
+// });
+// Route::post('/logout', function () {
+//     return "Working On This";
+// });
 Route::middleware('auth:api')->group(function() {
-    Route::post('/logouts', [LoginController::class, 'logout']);
+
+    Route::post('/logout', [LoginController::class, 'logout']);
+    // Route::get('/admins', [RegisterController::class, 'index']);
+    Route::get('/admins/{id}/retrieve', [RegisterController::class, 'retrieve']);
+
+
 });
 
 

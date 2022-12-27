@@ -2,41 +2,43 @@
 
 namespace App\Http\Middleware;
 
-use Illuminate\Auth\Middleware\Authenticate as Middleware;
-use App\Traits\ResponseTrait;
-use Illuminate\Http\Exceptions\HttpResponseException;
+use Closure;
+use Illuminate\Contracts\Auth\Factory as Auth;
 
-class Authenticate extends Middleware
+class Authenticate
 {
-    use ResponseTrait;
     /**
-     * Get the path the user should be redirected to when they are not authenticated.
+     * The authentication guard factory instance.
      *
-     * @param  \Illuminate\Http\Request  $request
-     * @return string|null
+     * @var \Illuminate\Contracts\Auth\Factory
      */
-    protected function redirectTo($request)
+    protected $auth;
+
+    /**
+     * Create a new middleware instance.
+     *
+     * @param  \Illuminate\Contracts\Auth\Factory  $auth
+     * @return void
+     */
+    public function __construct(Auth $auth)
     {
-        if (! $request->expectsJson()) {
-            return $this->responseError([],'UnAuthenticated');
-        }
+        $this->auth = $auth;
     }
 
-
-
     /**
-     * Handle an unauthenticated user.
+     * Handle an incoming request.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  array  $guards
-     * @return void
-     *
-     * @throws \Illuminate\Auth\AuthenticationException
+     * @param  \Closure  $next
+     * @param  string|null  $guard
+     * @return mixed
      */
-    protected function unauthenticated($request, array $guards)
+    public function handle($request, Closure $next, $guard = null)
     {
-        throw new HttpResponseException(
-            $this->responseError([],'Unauthenticated Access')
-        );
+        if ($this->auth->guard($guard)->guest()) {
+            return response('Unauthorized', 401);
+        }
+
+        return $next($request);
     }
 }
