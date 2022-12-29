@@ -92,10 +92,10 @@ class RegisterController extends Controller
     {
         DB::beginTransaction();
         try {
-           // return $id;
+             // return $id;
             // $data = User::findOrFail($id);
             $user = $request->ids;
-           // $user=explode(",", $user2);
+            // $user=explode(",", $user2);
             // return $user;
             // $user_array=explode(',',$user);
             // return $user_array;
