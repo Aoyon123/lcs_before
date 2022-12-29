@@ -61,7 +61,7 @@ class LoginController extends Controller
 
         if (!empty($input)) {
             //  return $input;
-             if (auth()->guard('api')->attempt(['email' => $input['email'], 'password' => $input['password']])) {
+             if (auth()->guard('api')->attempt(['phone' => $input['phone'], 'password' => $input['password']])) {
                // if (Auth::attempt(['email' => $input['email'], 'password' => $input['password']])) {
                 $user = Auth::user();
                    //return $user;

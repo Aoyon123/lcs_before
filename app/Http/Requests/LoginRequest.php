@@ -26,8 +26,8 @@ class LoginRequest extends FormRequest
         $id = request()->route('id') ?? null;
 
         $rules = [
-            'email' => 'required|email|max:40',
-            'password' => 'required|min:6'
+            'phone' => 'required|min:11',
+            'password' => 'required|min:8'
         ];
 
         return $rules;

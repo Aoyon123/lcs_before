@@ -21,6 +21,7 @@ class RegisterController extends Controller
 
     public function index()
     {
+        // return "aaa";
         $data = User::all();
         // return response()->json($data);
         $message = "Succesfully Data Shown";
@@ -28,12 +29,12 @@ class RegisterController extends Controller
     }
     public function store(RegisterRequest $request)
     {
+
+        //  return $request;
         DB::beginTransaction();
         try {
             $data = User::create([
-                'first_name' => $request->first_name,
-                'last_name' => $request->last_name,
-                'email' => $request->email,
+                'name' => $request->name,
                 'phone' => $request->phone,
                 'password' => Hash::make($request->password)
             ]);
@@ -62,48 +63,68 @@ class RegisterController extends Controller
 
     }
 
-
-    public function update(Request $request,$id)
+    public function update(RegisterRequest $request, $id)
     {
-        $input = User::find($id);
-       // return $input;
-        if ($input) {
-            $input->first_name = $request['first_name'];
-            $input->last_name = $request['last_name'];
-            $input->email = $request['email'];
-            $input->phone = $request['phone'];
-            $input->password = $request['password'];
-            $input->save();
-            $message = "Updated Succesfully";
-            return $this->responseSuccess(200, true, $message, $input);
-        }
-        else{
-            $message = "No Data Found";
-            return $this->responseError(404, false, $message);
-        }
+        //return "aoyon";
+        $input = User::findOrFail($id);
 
+        DB::beginTransaction();
+        try {
+            if ($input) {
+                $input->name = $request['name'];
+                $input->phone = $request['phone'];
+                $input->password = Hash::make($request['password']);
+                $input->save();
+                $message = "Updated Succesfully";
+                DB::commit();
+                return $this->responseSuccess(200, true, $message, $input);
+            } else {
+                $message = "No Data Found";
+                return $this->responseError(404, false, $message);
+            }
+        } catch (QueryException $e) {
+            DB::rollBack();
+        }
     }
 
 
-    public function destroy(Request $request, $id)
+    public function destroy(Request $request)
     {
-
-        $user = User::findOrFail($id);
+        DB::beginTransaction();
         try {
+           // return $id;
+            // $data = User::findOrFail($id);
+            $user = $request->ids;
+           // $user=explode(",", $user2);
+            // return $user;
+            // $user_array=explode(',',$user);
+            // return $user_array;
             if ($user) {
-                //return $user;
-                $user->delete();
-
+                // return $user;
+               // User::whereIn('id', [$user])->delete();
+                $users = DB::table('users')
+                       ->whereIn('id', [$user])
+                       ->delete();
+               // return $user;
                 $message = "Deleted Succesfully";
-                return $this->responseSuccess(200, true, $message, $user);
-            } else {
-                $message = "Data cannot be deleted";
-                return $this->responseError(403, false, $message);
+                DB::commit();
+                return $this->responseSuccess(200, true, $message, $users);
             }
         } catch (QueryException $e) {
             DB::rollBack();
         }
 
-    }
+        //     try {
+        //         User::destroy($request->ids);
+        //         return response()->json([
+        //             'message' => "Posts Deleted successfully."
+        //         ], 200);
 
+
+
+        //     }
+
+        // }
+    }
 }
+
