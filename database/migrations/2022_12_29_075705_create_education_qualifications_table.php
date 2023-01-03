@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateEducationQualificationsTable extends Migration
+class CreateAcademicQualificationsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,14 +13,15 @@ class CreateEducationQualificationsTable extends Migration
      */
     public function up()
     {
-        Schema::create('education_qualifications', function (Blueprint $table) {
+        Schema::create('academic_qualifications', function (Blueprint $table) {
             $table->id();
-            $table->string('qualification_name');
-            $table->string('subject');
-            $table->integer('passing_year');
-            $table->float('result')->nullable();
             $table->unsignedBigInteger('user_id')->comment('Users Whoose Information Is This');
             $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
+            $table->string('education_level');
+            $table->string('institute_name');
+            $table->integer('passing_year');
+            $table->string('certification_copy')->nullable();
+
             $table->timestamps();
         });
     }

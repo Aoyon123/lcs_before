@@ -4,7 +4,7 @@ namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 
-class EducationQualificationRequest extends FormRequest
+class AcademicQualificationRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -24,15 +24,15 @@ class EducationQualificationRequest extends FormRequest
     public function rules()
     {
         $rules = [
-            'qualification_name' => 'required|string',
-            'subject' => 'required|max:30',
+            'education_level' => 'required|string',
+            'institute_name' => 'required|string|max:50',
             'passing_year' => 'required|max:10',
-            'result' => 'required|max:6',
-            'user_id' => 'required|int|exists:users,id|unique:education_qualifications,user_id,'
+            'certification_copy' => 'required',
+            'user_id' => 'required|int|exists:users,id|unique:academic_qualifications,user_id,'
         ];
 
         if (request()->isMethod('put') || request()->isMethod('patch')) {
-            $rules['user_id']  = '';
+            $rules['user_id'] = '';
         }
 
         return $rules;

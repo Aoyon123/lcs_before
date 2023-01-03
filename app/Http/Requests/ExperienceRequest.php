@@ -4,7 +4,7 @@ namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 
-class RegisterRequest extends FormRequest
+class ExperienceRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -23,23 +23,18 @@ class RegisterRequest extends FormRequest
      */
     public function rules()
     {
-        // $id = request()->route('id') ?? null;
-
         $rules = [
-            'name' => 'required|string|max:50',
-            'phone' => 'max:11|min:11|regex:/(01)[0-9]{9}/|unique:users',
-            'password' => 'required|min:8',
-            'email'    => 'email|unique:users,email',
-            // "nid" => 'required',
-            // "dob" => 'required',
-            "profile_image" => 'nullable|image|mimes:jpeg,png,jpg,gif|max:1024',
-
+            'Institute_name' => 'required|string|max:30',
+            'designation' => 'required|max:30',
+            'department' => 'required|max:30',
+            'start_date' => 'required|max:30',
+            'end_date' => 'required|max:50',
+            'current_working' => 'required|max:100',
+            'user_id' => 'required|int|exists:users,id|unique:experiences,user_id,'
         ];
-
         if (request()->isMethod('put') || request()->isMethod('patch')) {
-            $rules['password'] = 'nullable|min:8';
+            $rules['user_id'] = '';
         }
-
         return $rules;
     }
 }

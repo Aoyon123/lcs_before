@@ -15,14 +15,14 @@ class CreateExperiencesTable extends Migration
     {
         Schema::create('experiences', function (Blueprint $table) {
             $table->id();
-            $table->string('company_name');
+            $table->unsignedBigInteger('user_id')->comment('Users Whoose Information Is Connect With');
+            $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
+            $table->string('Institute_name');
             $table->string('designation');
+            $table->string('department');
             $table->string('start_date');
             $table->string('end_date');
-            $table->string('responsibility')->nullable();
-            $table->string('end_date');
-            $table->unsignedBigInteger('user_id')->comment('Users Whoose Information Is This');
-            $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
+            $table->string('current_working');
             $table->timestamps();
         });
     }

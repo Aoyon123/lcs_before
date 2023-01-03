@@ -18,6 +18,11 @@ class AuthServiceProvider extends ServiceProvider
          'App\Models\Model' => 'App\Policies\ModelPolicy',
     ];
 
+    // protected $policies = [
+    //     'App\Model' =&gt; 'App\Policies\ModelPolicy',
+    // ];
+
+
     /**
      * Register any authentication / authorization services.
      *
@@ -25,10 +30,14 @@ class AuthServiceProvider extends ServiceProvider
      */
     public function boot()
     {
+
         $this->registerPolicies();
-        if(! $this->app->routesAreCached()){
-            Passport::routes();
-        }
+        Passport::routes();
+
+       // $this->registerPolicies();
+        // if(! $this->app->routesAreCached()){
+        //     Passport::routes();
+        // }
       //  Passport::routes();
 
         // $this->app['auth']->viaRequest('api', function ($request) {

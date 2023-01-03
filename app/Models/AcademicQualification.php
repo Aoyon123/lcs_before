@@ -5,14 +5,14 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class EducationQualification extends Model
+class AcademicQualification extends Model
 {
     use HasFactory;
     protected $fillable = [
-        'qualification_name',
-        'subject',
+        'education_level',
+        'institute_name',
         'passing_year',
-        'result',
+        'certification_copy',
         'user_id'
     ];
 
