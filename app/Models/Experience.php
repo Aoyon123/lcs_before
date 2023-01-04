@@ -12,9 +12,7 @@ class Experience extends Model
 
     protected $table = "experiences";
 
-    public function post(){
-        return $this->belongsTo(User::class);
-    }
+  
     protected $fillable = [
         'Institute_name',
         'designation',

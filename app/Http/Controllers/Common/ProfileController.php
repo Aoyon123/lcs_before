@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Hash;
 use App\Http\Requests\RegisterRequest;
+use App\Models\AcademicQualification;
 use Illuminate\Database\QueryException;
 use Symfony\Component\HttpFoundation\Session\Session;
 
@@ -23,9 +24,9 @@ class ProfileController extends Controller
     use ResponseTrait;
     public function update(Request $request)
     {
-        info($request->all());
+        // info($request->all());
 
-         return $request->all();
+        //  return $request->all();
 
         // DB::beginTransaction();
 
@@ -91,7 +92,7 @@ class ProfileController extends Controller
             $request->validate([
                 'years_of_experience' => 'required',
                 'current_profession' => 'required',
-                'email' => 'required|email|unique:users,email',
+                'email' => 'required|email|unique:users,email,'. $user->id,
             ]);
 
             if ($request->hasFile('nid_front')) {
@@ -150,7 +151,6 @@ class ProfileController extends Controller
         }
 
         $user->update([
-
             'name' => $request->name ?? $user->name,
             'phone' => $request->phone ?? $user->phone,
             'email' => $request->email ?? $user->email,
@@ -166,6 +166,21 @@ class ProfileController extends Controller
             'nid_front' => $nid_front_image_path,
             'nid_back' => $nid_back_image_path,
         ]);
+
+        if($user->type === 'consultant'){
+            if($request->accademics){
+
+                foreach($request->accademics as $key => $accademics){
+                    if($request->accademics){
+                        $data = AcademicQualification::updateOrCreate([
+                            'education_level'=> 
+                        ]);
+                    }
+                    return [$accademics, $key];
+                }
+
+            }
+        }
 
 
         $message = $request->type . " Updated Succesfully";
