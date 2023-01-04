@@ -14,7 +14,7 @@ use Illuminate\Http\Response;
 class ExperienceController extends Controller
 {
     use ResponseTrait;
-
+  //  $facilitiesArr = Facilities::orderBy('title', 'asc')->pluck('title', 'id')->toArray();
     public function index()
     {
 

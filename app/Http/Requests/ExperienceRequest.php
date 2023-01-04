@@ -29,7 +29,7 @@ class ExperienceRequest extends FormRequest
             'department' => 'required|max:30',
             'start_date' => 'required|max:30',
             'end_date' => 'required|max:50',
-            'current_working' => 'required|max:100',
+            'current_working' => 'nullable',
             'user_id' => 'required|int|exists:users,id|unique:experiences,user_id,'
         ];
         if (request()->isMethod('put') || request()->isMethod('patch')) {
