@@ -10,11 +10,8 @@ class Experience extends Model
 {
     use HasFactory;
 
-    protected $table = "experiences";
-
-  
     protected $fillable = [
-        'Institute_name',
+        'institute_name',
         'designation',
         'department',
         'start_date',
@@ -22,9 +19,4 @@ class Experience extends Model
         'current_working',
         'user_id'
     ];
-
-    public function user()
-    {
-        return $this->belongsTo(User::class);
-    }
 }
