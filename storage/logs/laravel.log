@@ -1,220 +1,4 @@
-[2023-01-05 07:01:42] local.INFO: array (
-  0 => 
-  array (
-    'id' => 44,
-    'user_id' => 15,
-    'institute_name' => 'kkkkkkkkk iup',
-    'designation' => 'fhfghfg',
-    'department' => 'fghfghgf',
-    'start_date' => '2023-01-25',
-    'end_date' => '2023-01-25',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:33:54.000000Z',
-    'updated_at' => '2023-01-05T06:44:52.000000Z',
-  ),
-  1 => 
-  array (
-    'id' => 45,
-    'user_id' => 15,
-    'institute_name' => 'ssssssssss',
-    'designation' => 'fdhhdfhgf',
-    'department' => 'fghgfhfgh',
-    'start_date' => '2023-01-10',
-    'end_date' => '2023-01-04',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:42:44.000000Z',
-    'updated_at' => '2023-01-05T06:42:44.000000Z',
-  ),
-  2 => 
-  array (
-    'id' => 46,
-    'user_id' => 15,
-    'institute_name' => '1',
-    'designation' => 'bbbbbb',
-    'department' => 'dfgsdafg',
-    'start_date' => '2023-01-11',
-    'end_date' => '2023-01-11',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:44:52.000000Z',
-    'updated_at' => '2023-01-05T07:01:12.000000Z',
-  ),
-  3 => 
-  array (
-    'id' => 47,
-    'user_id' => 15,
-    'institute_name' => 'fffffffffffffffffff',
-    'designation' => 'bfgfhf',
-    'department' => 'uuuuuuuuuu',
-    'start_date' => '2023-01-17',
-    'end_date' => '2023-01-19',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T07:01:12.000000Z',
-    'updated_at' => '2023-01-05T07:01:12.000000Z',
-  ),
-)  
-[2023-01-05 07:01:42] local.INFO: array (
-  0 => 
-  array (
-    'id' => 44,
-    'user_id' => 15,
-    'institute_name' => 'kkkkkkkkk iup',
-    'designation' => 'fhfghfg',
-    'department' => 'fghfghgf',
-    'start_date' => '2023-01-25',
-    'end_date' => '2023-01-25',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:33:54.000000Z',
-    'updated_at' => '2023-01-05T06:44:52.000000Z',
-  ),
-  1 => 
-  array (
-    'id' => 45,
-    'user_id' => 15,
-    'institute_name' => 'ssssssssss',
-    'designation' => 'fdhhdfhgf',
-    'department' => 'fghgfhfgh',
-    'start_date' => '2023-01-10',
-    'end_date' => '2023-01-04',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:42:44.000000Z',
-    'updated_at' => '2023-01-05T06:42:44.000000Z',
-  ),
-  2 => 
-  array (
-    'id' => 46,
-    'user_id' => 15,
-    'institute_name' => '1',
-    'designation' => 'bbbbbb',
-    'department' => 'dfgsdafg',
-    'start_date' => '2023-01-11',
-    'end_date' => '2023-01-11',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:44:52.000000Z',
-    'updated_at' => '2023-01-05T07:01:12.000000Z',
-  ),
-  3 => 
-  array (
-    'id' => 47,
-    'user_id' => 15,
-    'institute_name' => 'fffffffffffffffffff',
-    'designation' => 'bfgfhf',
-    'department' => 'uuuuuuuuuu',
-    'start_date' => '2023-01-17',
-    'end_date' => '2023-01-19',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T07:01:12.000000Z',
-    'updated_at' => '2023-01-05T07:01:12.000000Z',
-  ),
-)  
-[2023-01-05 07:01:42] local.INFO: array (
-  0 => 
-  array (
-    'id' => 44,
-    'user_id' => 15,
-    'institute_name' => 'kkkkkkkkk iup',
-    'designation' => 'fhfghfg',
-    'department' => 'fghfghgf',
-    'start_date' => '2023-01-25',
-    'end_date' => '2023-01-25',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:33:54.000000Z',
-    'updated_at' => '2023-01-05T06:44:52.000000Z',
-  ),
-  1 => 
-  array (
-    'id' => 45,
-    'user_id' => 15,
-    'institute_name' => 'ssssssssss',
-    'designation' => 'fdhhdfhgf',
-    'department' => 'fghgfhfgh',
-    'start_date' => '2023-01-10',
-    'end_date' => '2023-01-04',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:42:44.000000Z',
-    'updated_at' => '2023-01-05T06:42:44.000000Z',
-  ),
-  2 => 
-  array (
-    'id' => 46,
-    'user_id' => 15,
-    'institute_name' => '1',
-    'designation' => 'bbbbbb',
-    'department' => 'dfgsdafg',
-    'start_date' => '2023-01-11',
-    'end_date' => '2023-01-11',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:44:52.000000Z',
-    'updated_at' => '2023-01-05T07:01:12.000000Z',
-  ),
-  3 => 
-  array (
-    'id' => 47,
-    'user_id' => 15,
-    'institute_name' => 'fffffffffffffffffff',
-    'designation' => 'bfgfhf',
-    'department' => 'uuuuuuuuuu',
-    'start_date' => '2023-01-17',
-    'end_date' => '2023-01-19',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T07:01:12.000000Z',
-    'updated_at' => '2023-01-05T07:01:12.000000Z',
-  ),
-)  
-[2023-01-05 07:01:42] local.INFO: array (
-  0 => 
-  array (
-    'id' => 44,
-    'user_id' => 15,
-    'institute_name' => 'kkkkkkkkk iup',
-    'designation' => 'fhfghfg',
-    'department' => 'fghfghgf',
-    'start_date' => '2023-01-25',
-    'end_date' => '2023-01-25',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:33:54.000000Z',
-    'updated_at' => '2023-01-05T06:44:52.000000Z',
-  ),
-  1 => 
-  array (
-    'id' => 45,
-    'user_id' => 15,
-    'institute_name' => 'ssssssssss',
-    'designation' => 'fdhhdfhgf',
-    'department' => 'fghgfhfgh',
-    'start_date' => '2023-01-10',
-    'end_date' => '2023-01-04',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:42:44.000000Z',
-    'updated_at' => '2023-01-05T06:42:44.000000Z',
-  ),
-  2 => 
-  array (
-    'id' => 46,
-    'user_id' => 15,
-    'institute_name' => '1',
-    'designation' => 'bbbbbb',
-    'department' => 'dfgsdafg',
-    'start_date' => '2023-01-11',
-    'end_date' => '2023-01-11',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T06:44:52.000000Z',
-    'updated_at' => '2023-01-05T07:01:12.000000Z',
-  ),
-  3 => 
-  array (
-    'id' => 47,
-    'user_id' => 15,
-    'institute_name' => 'fffffffffffffffffff',
-    'designation' => 'bfgfhf',
-    'department' => 'uuuuuuuuuu',
-    'start_date' => '2023-01-17',
-    'end_date' => '2023-01-19',
-    'current_working' => NULL,
-    'created_at' => '2023-01-05T07:01:12.000000Z',
-    'updated_at' => '2023-01-05T07:01:12.000000Z',
-  ),
-)  
-[2023-01-05 07:02:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:11:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -230,7 +14,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:03:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:12:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -246,7 +30,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:04:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:13:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -262,7 +46,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:05:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:14:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -278,7 +62,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:06:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:15:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -294,7 +78,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:07:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:16:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -310,7 +94,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:08:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:17:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -326,7 +110,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:09:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:18:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -342,7 +126,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:10:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:19:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -358,7 +142,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:11:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:20:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -374,7 +158,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:12:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:21:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -390,7 +174,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:13:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:22:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -406,7 +190,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:14:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:23:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -422,7 +206,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:15:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:24:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -438,7 +222,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:16:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:25:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -454,7 +238,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:17:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:26:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -470,7 +254,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:18:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:27:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -486,7 +270,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:19:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:28:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -502,7 +286,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:20:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:29:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -518,7 +302,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:21:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:30:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -534,7 +318,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:22:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:31:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -550,7 +334,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:23:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:32:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -566,7 +350,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:24:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:33:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -582,7 +366,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:25:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:34:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -598,7 +382,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:26:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:35:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -614,7 +398,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:27:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:36:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -630,23 +414,136 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:28:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
-Stack trace:
-#0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
-#1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
-#2 Command line code(1): array_map(Object(Closure), Array, Array)
-#3 {main}
-  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class App\\Policies\\ModelPolicy does not exist in Command line code:1
-Stack trace:
-#0 Command line code(1): ReflectionClass->__construct('App\\\\Policies\\\\Mo...')
-#1 [internal function]: {closure}('App\\\\Policies\\\\Mo...', 'App\\\\Models\\\\Mode...')
-#2 Command line code(1): array_map(Object(Closure), Array, Array)
-#3 {main}
-  thrown at Command line code:1)
+[2023-01-05 10:36:58] local.ERROR: Undefined variable: nid_front_image_path {"exception":"[object] (ErrorException(code: 0): Undefined variable: nid_front_image_path at C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Http\\Controllers\\Common\\ProfileController.php:141)
 [stacktrace]
-#0 {main}
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Http\\Controllers\\Common\\ProfileController.php(141): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', 'C:\\\\Xampp811\\\\htd...', 141, Array)
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\Common\\ProfileController->update(Object(Illuminate\\Http\\Request))
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('update', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(262): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Common\\ProfileController), 'update')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(721): Illuminate\\Routing\\Route->run()
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(127): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(63): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), '60', '1')
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(723): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(698): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(662): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(651): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(52): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#36 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#37 C:\\Xampp811\\htdocs\\land_consultancy_service\\server.php(21): require_once('C:\\\\Xampp811\\\\htd...')
+#38 {main}
+"} 
+[2023-01-05 10:36:58] local.INFO: Undefined variable: nid_front_image_path  
+[2023-01-05 10:37:09] local.ERROR: Undefined variable: nid_front_image_path {"exception":"[object] (ErrorException(code: 0): Undefined variable: nid_front_image_path at C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Http\\Controllers\\Common\\ProfileController.php:141)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Http\\Controllers\\Common\\ProfileController.php(141): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', 'C:\\\\Xampp811\\\\htd...', 141, Array)
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\Common\\ProfileController->update(Object(Illuminate\\Http\\Request))
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('update', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(262): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Common\\ProfileController), 'update')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(721): Illuminate\\Routing\\Route->run()
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(127): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(63): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), '60', '1')
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(723): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(698): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(662): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(651): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(52): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#36 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#37 C:\\Xampp811\\htdocs\\land_consultancy_service\\server.php(21): require_once('C:\\\\Xampp811\\\\htd...')
+#38 {main}
 "} 
-[2023-01-05 07:29:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:37:09] local.INFO: Undefined variable: nid_front_image_path  
+[2023-01-05 10:37:20] local.ERROR: Undefined variable: nid_front_image_path {"exception":"[object] (ErrorException(code: 0): Undefined variable: nid_front_image_path at C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Http\\Controllers\\Common\\ProfileController.php:141)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Http\\Controllers\\Common\\ProfileController.php(141): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', 'C:\\\\Xampp811\\\\htd...', 141, Array)
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\Common\\ProfileController->update(Object(Illuminate\\Http\\Request))
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('update', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(262): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Common\\ProfileController), 'update')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(721): Illuminate\\Routing\\Route->run()
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(127): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(63): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), '60', '1')
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(723): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(698): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(662): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(651): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(52): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#36 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#37 C:\\Xampp811\\htdocs\\land_consultancy_service\\server.php(21): require_once('C:\\\\Xampp811\\\\htd...')
+#38 {main}
+"} 
+[2023-01-05 10:37:20] local.INFO: Undefined variable: nid_front_image_path  
+[2023-01-05 10:37:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -662,7 +559,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:30:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:38:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -678,7 +575,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:31:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:39:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -694,7 +591,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:32:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:40:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -710,7 +607,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:33:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:41:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -726,7 +623,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:34:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:42:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -742,7 +639,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:35:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:43:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -758,7 +655,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:36:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:44:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -774,7 +671,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:37:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:45:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -790,7 +687,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:38:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:46:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -806,7 +703,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:39:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:47:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -822,7 +719,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:40:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:48:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -838,7 +735,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:41:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:49:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -854,7 +751,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:42:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:50:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -870,7 +767,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:43:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:51:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -886,7 +783,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:44:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:52:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -902,7 +799,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:45:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:53:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -918,7 +815,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:46:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:54:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -934,7 +831,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:47:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:55:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -950,7 +847,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:48:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:56:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -966,7 +863,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:49:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:57:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -982,7 +879,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:50:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:58:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -998,7 +895,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:51:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 10:59:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1014,7 +911,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:52:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:00:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1030,7 +927,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:53:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:01:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1046,7 +943,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:54:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:02:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1062,7 +959,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:55:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:03:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1078,7 +975,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:56:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:04:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1094,7 +991,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:57:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:05:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1110,7 +1007,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:58:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:06:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1126,7 +1023,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 07:59:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:07:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1142,7 +1039,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:00:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:08:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1158,7 +1055,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:01:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:09:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1174,7 +1071,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:02:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:10:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1190,7 +1087,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:03:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:11:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1206,7 +1103,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:04:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:12:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1221,8 +1118,534 @@ Stack trace:
   thrown at Command line code:1)
 [stacktrace]
 #0 {main}
+"} 
+[2023-01-05 11:13:20] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\RouteCacheCommand.php(93): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(263): Illuminate\\Foundation\\Console\\RouteCacheCommand->Illuminate\\Foundation\\Console\\{closure}(Object(Illuminate\\Foundation\\Application))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\RouteCacheCommand.php(94): tap(Object(Illuminate\\Foundation\\Application), Object(Closure))
+#31 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\RouteCacheCommand.php(79): Illuminate\\Foundation\\Console\\RouteCacheCommand->getFreshApplication()
+#32 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\RouteCacheCommand.php(55): Illuminate\\Foundation\\Console\\RouteCacheCommand->getFreshApplicationRoutes()
+#33 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Console\\RouteCacheCommand->handle()
+#34 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#35 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#36 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#37 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#38 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(136): Illuminate\\Container\\Container->call(Array)
+#39 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\symfony\\console\\Command\\Command.php(298): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#40 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#41 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Concerns\\CallsCommands.php(68): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArrayInput), Object(Illuminate\\Console\\OutputStyle))
+#42 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Concerns\\CallsCommands.php(28): Illuminate\\Console\\Command->runCommand('route:cache', Array, Object(Illuminate\\Console\\OutputStyle))
+#43 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\OptimizeCommand.php(31): Illuminate\\Console\\Command->call('route:cache')
+#44 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Console\\OptimizeCommand->handle()
+#45 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#46 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#47 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#48 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#49 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(136): Illuminate\\Container\\Container->call(Array)
+#50 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\symfony\\console\\Command\\Command.php(298): Illuminate\\Console\\Command->execute(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#51 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Command.php(121): Symfony\\Component\\Console\\Command\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Illuminate\\Console\\OutputStyle))
+#52 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\symfony\\console\\Application.php(1040): Illuminate\\Console\\Command->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#53 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\symfony\\console\\Application.php(301): Symfony\\Component\\Console\\Application->doRunCommand(Object(Illuminate\\Foundation\\Console\\OptimizeCommand), Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#54 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\symfony\\console\\Application.php(171): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#55 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(94): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#56 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(129): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#57 C:\\Xampp811\\htdocs\\land_consultancy_service\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#58 {main}
+"} 
+[2023-01-05 11:13:26] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(153): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(137): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#31 {main}
+"} 
+[2023-01-05 11:13:26] local.INFO: Attribute [del] does not exist.  
+[2023-01-05 11:13:26] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(153): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(137): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#31 {main}
+"} 
+[2023-01-05 11:13:26] local.INFO: Attribute [del] does not exist.  
+[2023-01-05 11:13:26] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(153): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(137): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#31 {main}
 "} 
-[2023-01-05 08:05:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:13:26] local.INFO: Attribute [del] does not exist.  
+[2023-01-05 11:13:26] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(153): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(137): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#31 {main}
+"} 
+[2023-01-05 11:13:26] local.INFO: Attribute [del] does not exist.  
+[2023-01-05 11:13:26] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(153): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(137): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#31 {main}
+"} 
+[2023-01-05 11:13:26] local.INFO: Attribute [del] does not exist.  
+[2023-01-05 11:13:26] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(153): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(137): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#31 {main}
+"} 
+[2023-01-05 11:13:26] local.INFO: Attribute [del] does not exist.  
+[2023-01-05 11:13:26] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(153): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(137): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#31 {main}
+"} 
+[2023-01-05 11:13:26] local.INFO: Attribute [del] does not exist.  
+[2023-01-05 11:13:27] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(153): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(137): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#31 {main}
+"} 
+[2023-01-05 11:13:27] local.INFO: Attribute [del] does not exist.  
+[2023-01-05 11:13:27] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(153): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(137): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#31 {main}
+"} 
+[2023-01-05 11:13:27] local.INFO: Attribute [del] does not exist.  
+[2023-01-05 11:13:27] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(153): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(137): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#31 {main}
+"} 
+[2023-01-05 11:13:27] local.INFO: Attribute [del] does not exist.  
+[2023-01-05 11:13:27] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 25)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(153): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(137): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#31 {main}
+"} 
+[2023-01-05 11:13:27] local.INFO: Attribute [del] does not exist.  
+[2023-01-05 11:13:35] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 26)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#29 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#30 {main}
+"} 
+[2023-01-05 11:13:35] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 26)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#29 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#30 {main}
+"} 
+[2023-01-05 11:13:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1237,8 +1660,42 @@ Stack trace:
   thrown at Command line code:1)
 [stacktrace]
 #0 {main}
+"} 
+[2023-01-05 11:13:39] local.ERROR: Attribute [del] does not exist. {"exception":"[object] (InvalidArgumentException(code: 0): Attribute [del] does not exist. at C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php:107)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(1355): Illuminate\\Routing\\RouteRegistrar->attribute('del', '/profile/experi...')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Routing\\Router->__call('del', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\routes\\api.php(49): Illuminate\\Support\\Facades\\Facade::__callStatic('del', Array)
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteFileRegistrar.php(35): require('C:\\\\Xampp811\\\\htd...')
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(425): Illuminate\\Routing\\RouteFileRegistrar->register('C:\\\\Xampp811\\\\htd...')
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(382): Illuminate\\Routing\\Router->loadRoutes('C:\\\\Xampp811\\\\htd...')
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteRegistrar.php(163): Illuminate\\Routing\\Router->group(Array, 'C:\\\\Xampp811\\\\htd...')
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Providers\\RouteServiceProvider.php(44): Illuminate\\Routing\\RouteRegistrar->group('C:\\\\Xampp811\\\\htd...')
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(120): Illuminate\\Container\\Container->call(Object(Closure))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(40): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Object(Closure), Object(Closure))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(653): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Object(Closure), Array, NULL)
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php(119): Illuminate\\Container\\Container->call(Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(927): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(905): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\RouteServiceProvider))
+#23 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\RouteServiceProvider), 26)
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(906): array_walk(Array, Object(Closure))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(237): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#29 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#30 {main}
 "} 
-[2023-01-05 08:06:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:14:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1254,7 +1711,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:07:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:15:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1270,7 +1727,50 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:08:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:16:10] local.INFO:   
+[2023-01-05 11:16:21] local.ERROR: Call to undefined method stdClass::delete() {"exception":"[object] (Error(code: 0): Call to undefined method stdClass::delete() at C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Http\\Controllers\\Common\\ProfileController.php:277)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\Common\\ProfileController->experienceDestroy('44')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('experienceDestr...', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(262): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Common\\ProfileController), 'experienceDestr...')
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(721): Illuminate\\Routing\\Route->run()
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(127): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(63): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), '60', '1')
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(723): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(698): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(662): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(651): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(52): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#34 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#35 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#36 C:\\Xampp811\\htdocs\\land_consultancy_service\\server.php(21): require_once('C:\\\\Xampp811\\\\htd...')
+#37 {main}
+"} 
+[2023-01-05 11:16:21] local.INFO: Call to undefined method stdClass::delete()  
+[2023-01-05 11:16:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1286,7 +1786,8 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:09:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:16:58] local.INFO: The DELETE method is not supported for this route. Supported methods: POST.  
+[2023-01-05 11:17:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1302,7 +1803,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:10:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:18:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1317,8 +1818,49 @@ Stack trace:
   thrown at Command line code:1)
 [stacktrace]
 #0 {main}
+"} 
+[2023-01-05 11:18:56] local.ERROR: Call to undefined method stdClass::delete() {"exception":"[object] (Error(code: 0): Call to undefined method stdClass::delete() at C:\\Xampp811\\htdocs\\land_consultancy_service\\app\\Http\\Controllers\\Common\\ProfileController.php:277)
+[stacktrace]
+#0 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\Common\\ProfileController->experienceDestroy('49')
+#1 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('experienceDestr...', Array)
+#2 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(262): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Common\\ProfileController), 'experienceDestr...')
+#3 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#4 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(721): Illuminate\\Routing\\Route->run()
+#5 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#6 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#8 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(127): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(63): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#10 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), '60', '1')
+#11 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(723): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#13 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(698): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#14 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(662): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#15 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(651): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#16 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(167): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#17 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#19 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#20 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\fruitcake\\laravel-cors\\src\\HandleCors.php(52): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(167): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(142): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#34 C:\\Xampp811\\htdocs\\land_consultancy_service\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(111): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#35 C:\\Xampp811\\htdocs\\land_consultancy_service\\public\\index.php(52): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#36 {main}
 "} 
-[2023-01-05 08:11:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:18:56] local.INFO: Call to undefined method stdClass::delete()  
+[2023-01-05 11:19:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1334,7 +1876,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:12:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:20:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1350,7 +1892,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:13:34] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:21:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1366,7 +1908,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:14:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:22:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1382,7 +1924,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:15:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:23:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1398,7 +1940,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:16:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:24:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1414,7 +1956,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:17:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:25:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1430,7 +1972,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:18:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:26:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1446,7 +1988,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:19:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:27:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1462,7 +2004,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:20:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:28:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1478,7 +2020,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:21:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:29:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1494,7 +2036,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:22:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:30:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1510,7 +2052,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:23:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:31:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')
@@ -1526,7 +2068,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2023-01-05 08:24:33] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
+[2023-01-05 11:32:35] local.ERROR: Uncaught ReflectionException: Class App\Policies\ModelPolicy does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct('App\\Policies\\Mo...')
 #1 [internal function]: {closure}('App\\Policies\\Mo...', 'App\\Models\\Mode...')

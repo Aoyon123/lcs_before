@@ -15,13 +15,12 @@ class CreateAcademicQualificationsTable extends Migration
     {
         Schema::create('academic_qualifications', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('user_id')->comment('Users Whoose Information Is This');
+            $table->unsignedBigInteger('user_id')->comment('Users Whoose Information Is Connect With');
             $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
             $table->string('education_level');
             $table->string('institute_name');
-            $table->integer('passing_year');
-            $table->string('certification_copy')->nullable();
-
+            $table->string('passing_year');
+            $table->string('certification_copy');
             $table->timestamps();
         });
     }
@@ -33,6 +32,6 @@ class CreateAcademicQualificationsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('education_qualifications');
+        Schema::dropIfExists('academic_qualifications');
     }
 }

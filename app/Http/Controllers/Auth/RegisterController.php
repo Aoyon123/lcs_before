@@ -137,7 +137,7 @@ class RegisterController extends Controller
                     'gender' => 'required|max:10',
                     'address' => 'required|max:50',
                     'years_of_experience' => 'required',
-                    'current_profession' => 'required',
+                    'current_profession' => 'nullable',
                 ]);
 
                 if ($request->hasFile('nid_front')) {

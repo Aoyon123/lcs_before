@@ -79,7 +79,7 @@ class LoginController extends Controller
 
     public function profile($id)
     {
-        $user = User::with('experiances')->where('id',$id)->first();
+        $user = User::with('experiances','academics')->where('id',$id)->first();
         $message = " ";
         return $this->responseSuccess(200, true, $message, $user);
 
